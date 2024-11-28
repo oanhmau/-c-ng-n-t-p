@@ -51,10 +51,10 @@ Control Unit (CU): Điều khiển các hoạt động của các thành phần 
 . Dung lượng: Dung lượng của cache memory thường nhỏ hơn so với bộ nhớ chính, thường chỉ từ vài KB đến vài MB.
 . Chức năng: Cache memory lưu trữ các dữ liệu và lệnh mà CPU sử dụng thường xuyên, giúp giảm thời gian truy cập dữ liệu và tăng hiệu suất xử lý.
 ### Các câu hỏi trắc nghiệm
-- # Câu 1: Trong cấu trúc máy tính, thành phần nào sau đây có chức năng điều khiển các hoạt động của CPU và đảm bảo rằng các lệnh được thực hiện theo đúng thứ tự?
+- #### Câu 1: Trong cấu trúc máy tính, thành phần nào sau đây có chức năng điều khiển các hoạt động của CPU và đảm bảo rằng các lệnh được thực hiện theo đúng thứ tự?
 A. ALU
 B. CU
 C. RAM
 D. GPU
-# Đáp án: B. CU
+##### Đáp án: B. CU
 
