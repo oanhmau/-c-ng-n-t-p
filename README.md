@@ -52,9 +52,21 @@ Control Unit (CU): Điều khiển các hoạt động của các thành phần 
 . Chức năng: Cache memory lưu trữ các dữ liệu và lệnh mà CPU sử dụng thường xuyên, giúp giảm thời gian truy cập dữ liệu và tăng hiệu suất xử lý.
 ### Các câu hỏi trắc nghiệm
 - #### Câu 1: Trong cấu trúc máy tính, thành phần nào sau đây có chức năng điều khiển các hoạt động của CPU và đảm bảo rằng các lệnh được thực hiện theo đúng thứ tự?
-A. ALU
-B. CU
-C. RAM
-D. GPU
+ A. ALU
+ B. CU
+ C. RAM
+ D. GPU
 ##### Đáp án: B. CU
+- #### Câu 2: Những đặc điểm nào sau đây đúng về bộ nhớ cache? (Chọn tất cả các đáp án đúng)
+ A. Có tốc độ truy cập nhanh hơn bộ nhớ chính (RAM)
+ B. Lưu trữ dữ liệu tạm thời và có dung lượng nhỏ hơn
+ C. Giúp tăng tốc độ xử lý của CPU bằng cách giảm thời gian truy cập dữ liệu
+ D. Dữ liệu trong cache sẽ bị mất khi tắt máy
+ E. Là bộ nhớ vĩnh viễn, không bị mất dữ liệu khi tắt máy
+##### Đáp án: A. Có tốc độ truy cập nhanh hơn bộ nhớ chính (RAM), B. Lưu trữ dữ liệu tạm thời và có dung lượng nhỏ hơn, C. Giúp tăng tốc độ xử lý của CPU bằng cách giảm thời gian truy cập dữ liệu, D. Dữ liệu trong cache sẽ bị mất khi tắt máy
+- #### Câu 3: Trong cấu trúc máy tính, các thành phần chính bao gồm __________, __________, __________, __________, __________, __________, và __________. Trong đó, CPU được chia thành ba phần chính là __________, __________, và __________.
+
+ ##### Đáp án: CPU, GPU, RAM, ROM, SSD, HDD, Bo mạch chủ; CU (Control Unit), ALU (Arithmetic Logic Unit), RF (Registers)
+
+
 
